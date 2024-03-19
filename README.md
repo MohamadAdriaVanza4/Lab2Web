@@ -27,9 +27,12 @@ lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasa
 tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
 
 ## `Code php`
-![carbon](https://github.com/MohamadAdriaVanza4/Lab2Web/assets/115931631/f23b95f9-bc27-4b98-a4c0-74a0f881254e)
+![carbon (3)](https://github.com/MohamadAdriaVanza4/Lab2Web/assets/115931631/ef778d19-7c54-48bb-a583-073195706d91)
 
 ## `Code HTML`
-![carbon (1)](https://github.com/MohamadAdriaVanza4/Lab2Web/assets/115931631/bda999b5-e49a-4ba7-af83-ea39ea66490a)
+![carbon (2)](https://github.com/MohamadAdriaVanza4/Lab2Web/assets/115931631/c9193677-133e-4c4c-94be-5957415a0603)
 
-## `Code HTML`
+## `Hasil`
+![4](https://github.com/MohamadAdriaVanza4/Lab2Web/assets/115931631/d64a7529-ace4-4215-9f0a-d318ad83b0a6)
+
+### Terimakasih...
