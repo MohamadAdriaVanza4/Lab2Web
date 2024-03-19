@@ -7,6 +7,8 @@ NIM : 312210171<br>
 Kelas : TI.22.B1<br>
 Matkul : Pemrograman Web 2<br>
 
+kali ini kita akan membuat sebuah porgram sederhana yaitu input data karyawan menggunakan bahasa pemrogramman PHP
+
 ### Menjalankan Web Server
 - Untuk menjalankan web server, gunakan XAMPP Control.
 ![1](https://github.com/MohamadAdriaVanza4/Lab2Web/assets/115931631/6cbeb766-cb29-42de-8dab-e28a53f44011)
